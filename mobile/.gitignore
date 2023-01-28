@@ -1,0 +1,5 @@
+# Expo
+.expo-shared/
+.expo-shared-assets/
+node_modules/
+yarn-error.log
